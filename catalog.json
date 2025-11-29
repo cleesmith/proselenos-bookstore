@@ -1,16 +1,15 @@
 [
   {
     "projectId": "Spots Blind",
-    "bookHash": "fe314419354f79176110bb8c305b0e4d",
-    "title": "Children of God (s-2)",
-    "author": "Mary Doria Russel",
+    "bookHash": "f4364e79d91af62fe8740f5237db74b2",
+    "title": "Spots Blind",
+    "author": "Linda A. Lavid",
     "description": "Linda A Lavid is a recovering philosopher, retired social worker, part-time mystic, ongoing writer and artist. She likes writing stories and often asks the universe if it has any advice. It has plenty.",
     "ownerRepo": "101441964303966098868_proselenos",
     "ownerId": "101441964303966098868",
     "publishedAt": 1764423178897,
-    "updatedAt": 1764426635778,
-    "coverColor": "#834d34",
-    "hasCover": true,
-    "epubFilename": "_OceanofPDF.com_Children_of_God_TheSparrow2-_Mary_Doria_Russell.epub"
+    "updatedAt": 1764428927213,
+    "coverColor": "#60332e",
+    "hasCover": true
   }
 ]
